@@ -1,0 +1,17 @@
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body, html {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+  margin: 0px;
+  background: rgb(0,57,96);
+  background: linear-gradient(52deg, rgba(0,57,96,1) 0%, rgba(9,85,121,1) 35%, rgba(24,154,221,1) 100%);
+}

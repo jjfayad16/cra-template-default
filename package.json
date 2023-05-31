@@ -1,0 +1,26 @@
+{
+  "name": "@jjfayad16/cra-template-default",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The basic template for João Fayad React Apps.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjfayad16/react-template-basic"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/jjfayad16/react-template-basic/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
